@@ -42,10 +42,10 @@ ansible-docker-project/
                  SSH using PEM Key
                       │
           ┌───────────┴───────────┐
-          │                       │
+          │                           │
       Ubuntu EC2 VM1         Ubuntu EC2 VM2
-          │                       │
-          └──── Docker Installed ─┘
+          │                           │
+          └──── Docker Installed  ───┘
 ```
 
 ---
